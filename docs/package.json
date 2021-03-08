@@ -1,0 +1,19 @@
+{
+  "name": "fuji-rock",
+  "version": "0.0.1",
+  "description": "life record",
+  "main": "index.js",
+  "authors": {
+    "name": "",
+    "email": ""
+  },
+  "repository": "https://github.com/yurukuma/fuji-rock.git/fuji-rock",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
