@@ -5,6 +5,7 @@ module.exports = {
    * Ref：https://v1.vuepress.vuejs.org/config/#title
    */
   title: 'Fuji Rock',
+  base:'/fuji-rock/',
   /**
    * Ref：https://v1.vuepress.vuejs.org/config/#description
    */
